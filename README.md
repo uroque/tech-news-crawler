@@ -1,5 +1,7 @@
 # :construction: Under Construction :construction: 
 
+I developed Python web crawler to do data scraping in a news blog.
+
 Technologies used in this project:
 
 - Python3
